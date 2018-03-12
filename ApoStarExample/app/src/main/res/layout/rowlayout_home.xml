@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingEnd="16dp"
+    android:paddingRight="16dp"
+    android:paddingStart="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:minHeight="56dp">
+
+    <TextView
+        android:id="@+id/textHomeTeam"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Schweiz"
+        android:layout_gravity="center"
+        android:textColor="#0000ff" />
+
+    <EditText
+        android:id="@+id/betHomeGoal"
+        android:layout_width="100px"
+        android:layout_height="match_parent"
+        />
+
+    <TextView
+        android:id="@+id/textAwayTeam"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:text="Deutschland"
+        android:textColor="#0000ff" />
+
+    <EditText
+        android:id="@+id/betAwayGoal"
+        android:layout_width="100px"
+        android:layout_height="match_parent"
+        />
+</LinearLayout>
