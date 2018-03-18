@@ -24,7 +24,15 @@ android:
     - sys-img-armeabi-v7a-android-17
     
   licenses:
-    - 'android-sdk-preview-license-52d11cd2'
     - 'android-sdk-license-.+'
-    - 'google-gdk-license-.+'
     - '.+'
+    
+notifications:
+  email: false
+  
+before_install:
+  - mkdir "$ANDROID_HOME/licenses" || true
+  # Added cuz Travis doesn't accept license agreements of ConstraintLayout.
+  # To fix it, we are copying the licenses that come with the SDK to Travis's directory.
+  # Reference: https://github.com/wolkenschieber/License/blob/master/.travis.yml#L35
+  - cp ./android-sdk-licenses/* "$ANDROID_HOME/licenses/"
