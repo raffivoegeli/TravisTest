@@ -7,3 +7,7 @@ Android/.DS_Store
 Android/build
 Android/captures
 Android/.externalNativeBuild
+
+NodeJS/node_modules
+NodeJS/.npm
+NodeJS/.idea
