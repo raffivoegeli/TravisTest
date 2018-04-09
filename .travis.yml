@@ -64,4 +64,11 @@ matrix:
                 - 'android-sdk-preview-license-.+'
                 - 'android-sdk-license-.+'
                 - 'google-gdk-license-.+'
-
+    -   language: node_js
+        node_js:
+            - "node"
+        before_script:
+            - cd "NodeJS"
+        
+        
+    
