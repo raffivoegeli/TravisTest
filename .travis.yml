@@ -68,7 +68,7 @@ matrix:
         node_js:
             - "node"
         before_script:
-            - cd "NodeJS"
+            - cd "ApostarAPI"
         
         
     

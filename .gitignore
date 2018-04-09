@@ -11,3 +11,7 @@ Android/.externalNativeBuild
 NodeJS/node_modules
 NodeJS/.npm
 NodeJS/.idea
+
+ApostarAPI/node_modules
+ApostarAPI/.npm
+ApostarAPI/.idea
