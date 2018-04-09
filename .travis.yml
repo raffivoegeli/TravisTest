@@ -22,6 +22,7 @@ cache:
     - $HOME/.android/build-cache
 
 before_script:
+    - cd "Android"
     - mkdir -p "$ANDROID_HOME/licenses"
     - cp ./licenses/* "$ANDROID_HOME/licenses/"
     # Create and start emulator

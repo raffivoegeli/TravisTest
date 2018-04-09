@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_500264ee445aacebd39dde696579d38c757bebd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\90526a4dcf48efe4101f22ee4f33e1d8bc138687\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_cb45d306aa1a85252891ef29cadc54071e067fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\80b75cf4974d49492f352878cb63aaeda174b557\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_88360db7ac3bc2c2f630c4569d4f85fdce588f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\1cb710e3fec9de91373e4fc443f613d5903c8053\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_0741809963278f406853d90cf17eda9777421911.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\TravisTest\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7bc5c3306eda8b97b6cec0d0f94d9210e7d46d76">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a592523938a620d11d711a366229186fe4e8007a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\2f983135f6deb046f12b1abc852d712c65b2e1d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_f00ca1440b260a7270ec4637f02efcbe9d505199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\db623c4951c8f0399ae0fbd78f05731b3657e26d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_223eacfb2b6a6ad468eb2928cf9ee5e1a6e23b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\076b3bda6b04abe8212f9d5e926c8b57a3794e47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_54cfcd97970fce7038eb50c8926facf4afbc8093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\2c9e9875100d3f20bba2572466c750cd17566876\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_e7753962570c66fec369a22b4a5a310e0fbca330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\75e504ef459fd8d7c880d5c2f96ea177ba8617a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_8c7f5089353991872255a99b54487cb8bbf5051e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\66dba56629c7c850f9b89bb95849ee686e669f4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_752751c98e5fba138d99f7076c398f9a31165fcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\e42635b1734c967a8726855e8b2ad4fcfdf36b25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_04861e1b625ab39a777615f13d04595aad67e103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\e65777cc2ba1059c2c6040dfb69638da49e2e01e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_467ab329fc8be863ac555ee2082a22aa1fb67ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\222bcede1d0c006b5b3e637ed7babc4592f3917a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_a736d83245d0d4c155cbd4616428ea82af90eb1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_89324bb520842f9fe2dc146bdc20caa322b32e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raffa\.android\build-cache\b058f82584c04cfe325b5de76354492b21da1c99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\pre-dexed\debug\classes_fa5086584e515867d17ebb5e1a8c7a40fd2a9cdb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\TravisTest\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Development\TravisTest\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3f8f22d6827283940011cd644c729acd7e19dfa1\classes.dex" />
+    </item>
+
+</items>
